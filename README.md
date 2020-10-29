@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Bezerra77/Bezerra77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jefferson Bezerra de Paula :Developer Front End:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Hey! 👋 Welcome to my profile
+
+My name is Jefferson and ...:
+
+ - 😄 I really like to learn
+ - 📊 I'm currently only working as a freelancer
+ - 📚 I'm finished finishing studying JavaScript
+ - 🌍 And I always like to be doing new things
