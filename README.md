@@ -1,12 +1,12 @@
 
-### Jefferson Bezerra de Paula :Developer Front End:
+### Jefferson Bezerra de Paula :man_technologist:
 
 
 
 
 ### Hey! 👋 Welcome to my profile
 
-My name is Jefferson and ...:
+My name is Jefferson and ...
 
  - 😄 I really like to learn
  - 📊 I'm currently only working as a freelancer
