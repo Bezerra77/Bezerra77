@@ -10,5 +10,5 @@ My name is Jefferson and ...
 
  - 😄 I really like to learn
  - 📊 I'm currently only working as a freelancer
- - 📚 I'm finished finishing studying JavaScript
+ - 📚 I'm studying java
  - 🌍 And I always like to be doing new things
